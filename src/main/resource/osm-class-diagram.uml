@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="20.0" y="1035.0">org.openstreetmap.osmosis.core.domain.v0_6.Relation</node>
+    <node x="994.0" y="823.0">org.openstreetmap.osmosis.core.domain.v0_6.Bound</node>
+    <node x="24.333333333333258" y="549.0">org.openstreetmap.osmosis.core.domain.v0_6.RelationMember</node>
+    <node x="692.875" y="0.0">org.openstreetmap.osmosis.core.domain.v0_6.CommonEntityData</node>
+    <node x="616.0" y="1008.5">org.openstreetmap.osmosis.core.domain.v0_6.Node</node>
+    <node x="525.5" y="602.0">org.openstreetmap.osmosis.core.domain.v0_6.Entity</node>
+    <node x="87.83333333333326" y="106.0">org.openstreetmap.osmosis.core.domain.v0_6.EntityType</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Node" target="org.openstreetmap.osmosis.core.domain.v0_6.Node">
+      <point x="0.0" y="85.5" />
+      <point x="785.0" y="1199.5" />
+      <point x="596.0" y="1199.5" />
+      <point x="596.0" y="1094.0" />
+      <point x="-169.0" y="-0.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Bound" target="org.openstreetmap.osmosis.core.domain.v0_6.Bound">
+      <point x="0.0" y="271.0" />
+      <point x="1282.5" y="1385.0" />
+      <point x="974.0" y="1385.0" />
+      <point x="974.0" y="1094.0" />
+      <point x="-288.5" y="-0.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.RelationMember" target="org.openstreetmap.osmosis.core.domain.v0_6.EntityType">
+      <point x="0.0" y="-112.0" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Relation" target="org.openstreetmap.osmosis.core.domain.v0_6.Relation">
+      <point x="0.0" y="59.0" />
+      <point x="298.0" y="1173.0" />
+      <point x="0.0" y="1173.0" />
+      <point x="0.0" y="1094.0" />
+      <point x="-278.0" y="-0.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Bound" target="org.openstreetmap.osmosis.core.domain.v0_6.CommonEntityData">
+      <point x="144.25" y="-271.0" />
+      <point x="1426.75" y="529.0" />
+      <point x="1003.5" y="529.0" />
+      <point x="133.125" y="244.5" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Node" target="org.openstreetmap.osmosis.core.domain.v0_6.Entity">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Relation" target="org.openstreetmap.osmosis.core.domain.v0_6.Entity">
+      <point x="185.33333333333337" y="-59.0" />
+      <point x="483.33333333333337" y="798.0" />
+      <point x="612.0" y="798.0" />
+      <point x="-173.0" y="59.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Relation" target="org.openstreetmap.osmosis.core.domain.v0_6.RelationMember">
+      <point x="-185.33333333333337" y="-59.0" />
+      <point x="112.66666666666663" y="798.0" />
+      <point x="114.83333333333326" y="798.0" />
+      <point x="-90.5" y="112.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Bound" target="org.openstreetmap.osmosis.core.domain.v0_6.Entity">
+      <point x="-144.25" y="-271.0" />
+      <point x="1138.25" y="798.0" />
+      <point x="958.0" y="798.0" />
+      <point x="173.0" y="59.0" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.Entity" target="org.openstreetmap.osmosis.core.domain.v0_6.CommonEntityData">
+      <point x="129.75" y="-59.0" />
+      <point x="44.375" y="244.5" />
+    </edge>
+    <edge source="org.openstreetmap.osmosis.core.domain.v0_6.CommonEntityData" target="org.openstreetmap.osmosis.core.domain.v0_6.CommonEntityData">
+      <point x="-133.125" y="244.5" />
+      <point x="737.25" y="509.0" />
+      <point x="672.875" y="509.0" />
+      <point x="672.875" y="244.5" />
+      <point x="-177.5" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1999999999999997" x="1316.9090909090953" y="721.6363636363639" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

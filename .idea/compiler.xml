@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="from-map-to-graph" />
+        <module name="qualitative-graph" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="from-map-to-graph" target="1.5" />
+      <module name="qualitative-graph" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
